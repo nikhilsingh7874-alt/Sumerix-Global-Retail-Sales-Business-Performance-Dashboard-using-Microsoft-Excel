@@ -11,11 +11,9 @@ Synthetic practice dataset (generated with `documentation/01_make_raw.py`) that 
 ## Folder structure
 ```
 Retail-Sales-Analytics/
-├── datasets/raw/        Raw_Data.xlsx, Raw_Data.csv
-├── datasets/cleaned/    Cleaned_Data.xlsx, Cleaned_Data.csv
-├── excel/               Retail_Sales_Analytics.xlsx   <- main deliverable
-├── documentation/       Python scripts, native PivotTable guide
-├── screenshots/         dashboard.png
+├── dataset/             Raw_Data.xlsx, Cleaned_Data.xlsx
+├── Excel Dashboard/     Retail_Sales_Analytics.xlsx   <- main deliverable
+├── Report/              Project_Report_Sumerix_Global_Task1, dashboard.png
 └── README.md
 ```
 
